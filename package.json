@@ -18,7 +18,7 @@
     "@radix-ui/react-dialog": "^1.1.15",
     "debounce-fn": "^6.0.0",
     "embla-carousel-react": "^8.6.0",
-    "lucide-preact": "^0.577.0",
+    "lucide-preact": "^1.7.0",
     "preact": "^10.29.0",
     "react-image-crop": "^11.0.10",
     "vaul": "^1.1.2"
